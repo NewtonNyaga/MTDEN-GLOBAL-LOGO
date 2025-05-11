@@ -15,7 +15,7 @@ The logo is currently owned by **Newtech** and is licensed exclusively for Mtden
 ## Copyright Notice
 
 ```
-© 2025 Newtech. All Rights Reserved.  
+© 2025 Newtech Solutions. All Rights Reserved.  
 This logo is licensed for Mtden Global’s use. Ownership will be transferred upon completion of agreed terms.  
 ```
 
