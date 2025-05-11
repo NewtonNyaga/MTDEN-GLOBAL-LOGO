@@ -1,7 +1,7 @@
 # MTDEN-GLOBAL-LOGO
 
 
-This repository contains a logo designed by **Newtech** for **Mtden Global**, showcasing their brand identity.
+This repository contains a logo designed by **Newtech solutions ** for **Mtden Global**, showcasing their brand identity.
 
 ---
 
@@ -37,4 +37,4 @@ For further details, contact us at **[tonienyagah9@gmail.com]**.
 
 ---
 
-This README clearly communicates that the logo is still under your ownership while being prepared for Mtden Global.
+This README clearly communicates that the logo is still under newtech solutions ownership while being prepared for Mtden Global.
