@@ -1,9 +1,5 @@
 # MTDEN-GLOBAL-LOGO
-If the ownership rights of the logo are still with you (Newtech), the README should reflect that while clearly stating the logo is for the **Mtden Global** project. Here's an updated README:
 
----
-
-# Mtden Global Logo
 
 This repository contains a logo designed by **Newtech** for **Mtden Global**, showcasing their brand identity.
 
